@@ -8,10 +8,6 @@ package com.loiane.cursoJava.aula19.labs;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/**
- *
- * @author loiane
- */
 public class Exer04 {
     
     public static void main(String[] args){

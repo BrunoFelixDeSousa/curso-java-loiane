@@ -1,10 +1,10 @@
 package com.loiane.cursoJava.aula28;
 
-import com.loiane.cursojava.aula15.labs.Exer10;
-import com.loiane.cursojava.aula20.labs.Exer04;
-import com.loiane.cursojava.aula20.labs.Exer05;
-import com.loiane.cursojava.aula20.labs.Exer06;
-import com.loiane.cursojava.aula27.Carro;
+import com.loiane.cursoJava.aula15.labs.Exer10;
+import com.loiane.cursoJava.aula20.labs.Exer04;
+import com.loiane.cursoJava.aula20.labs.Exer05;
+import com.loiane.cursoJava.aula20.labs.Exer06;
+import com.loiane.cursoJava.aula27.Carro;
 
 public class Pacotes {
 

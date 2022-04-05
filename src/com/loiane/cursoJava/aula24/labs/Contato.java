@@ -5,10 +5,6 @@
  */
 package com.loiane.cursoJava.aula24.labs;
 
-/**
- *
- * @author loiane
- */
 public class Contato {
     
     String nome;

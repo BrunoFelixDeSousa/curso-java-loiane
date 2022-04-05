@@ -8,10 +8,6 @@ package com.loiane.cursoJava.aula15.labs;
 
 import java.util.Scanner;
 
-/**
- *
- * @author loiane
- */
 public class Exer23 {
     
     public static void main(String[] args){

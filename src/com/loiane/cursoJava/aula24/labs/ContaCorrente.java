@@ -4,10 +4,10 @@
  * and open the template in the editor.
  */
 package com.loiane.cursoJava.aula24.labs;
-
 /**
+ * 
+ * @author bruno
  *
- * @author loiane
  */
 public class ContaCorrente {
     

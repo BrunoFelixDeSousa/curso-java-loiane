@@ -5,10 +5,6 @@
  */
 package com.loiane.cursoJava.aula27.labs;
 
-/**
- *
- * @author loiane
- */
 public class ContaCorrente {
     
     String numero;

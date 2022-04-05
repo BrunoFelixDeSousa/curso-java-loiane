@@ -5,10 +5,6 @@
  */
 package com.loiane.cursoJava.aula24.labs;
 
-/**
- *
- * @author loiane
- */
 public class Exer06 {
     
     public static void main(String[] args){

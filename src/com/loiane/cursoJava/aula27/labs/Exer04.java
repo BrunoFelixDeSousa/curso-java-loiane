@@ -7,10 +7,6 @@ package com.loiane.cursoJava.aula27.labs;
 
 import java.util.Scanner;
 
-/**
- *
- * @author loiane
- */
 public class Exer04 {
 
     public static void main(String[] args) {

@@ -9,10 +9,6 @@ package com.loiane.cursoJava.aula17.labs;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-/**
- *
- * @author loiane
- */
 public class Exer31 {
     
     public static void main(String[] args){

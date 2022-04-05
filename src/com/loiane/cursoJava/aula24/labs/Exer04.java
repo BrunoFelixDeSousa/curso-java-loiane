@@ -7,10 +7,6 @@ package com.loiane.cursoJava.aula24.labs;
 
 import java.util.Date;
 
-/**
- *
- * @author loiane
- */
 public class Exer04 {
     
     public static void main(String[] args){
