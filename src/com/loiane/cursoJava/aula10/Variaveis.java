@@ -25,7 +25,7 @@ public class Variaveis {
 		System.out.println("Nome = " + nome);
 
 		// má prática
-		int a = 10;
+		int a = 100;
 		String b = "Bruno Félix";
 
 	}
